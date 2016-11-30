@@ -3,7 +3,7 @@
 #####
 
 SRC_DIR	= .
-BIN_DIR = ../bin
+BIN_DIR = /usr/local/bin
 SHELL = /bin/sh
 
 #####
